@@ -22,6 +22,12 @@ Note: `.no-sidebar` styles are automatically loaded.
 Installation
 ---------------
 
+### Installation
+- Clone Repo
+- run `npm install`
+- run `grunt`
+
+
 ### Requirements
 
 `_s` requires the following dependencies:
